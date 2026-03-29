@@ -1,4 +1,3 @@
-# oss-audit-24BCE10946
 # Open Source Audit — Python
 
 ## Student Details
